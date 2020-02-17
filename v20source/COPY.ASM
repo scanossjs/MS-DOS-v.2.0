@@ -1,6 +1,6 @@
 ; test comment. nContinued.
 ; no petted allowed
-
+; PETTED is very annoying
 
 TITLE   COMMAND COPY routines.
 
