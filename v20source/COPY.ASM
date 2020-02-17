@@ -1,3 +1,5 @@
+; test comment.
+
 TITLE   COMMAND COPY routines.
 
         INCLUDE COMSW.ASM
@@ -576,4 +578,4 @@ RET81P:
 TRANCODE        ENDS
 
         END
-                                                                                                               
+
