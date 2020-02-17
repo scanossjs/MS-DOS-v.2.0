@@ -1,4 +1,4 @@
-; test comment.
+; test comment. nContinued.
 
 TITLE   COMMAND COPY routines.
 
