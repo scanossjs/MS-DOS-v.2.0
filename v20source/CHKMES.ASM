@@ -1,5 +1,6 @@
 TITLE   CHKDSK Messages
 ; PETTED
+; NOT PETTED
 FALSE   EQU     0
 TRUE    EQU     NOT FALSE
 
