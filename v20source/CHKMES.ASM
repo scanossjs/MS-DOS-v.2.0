@@ -1,5 +1,5 @@
 TITLE   CHKDSK Messages
-
+; PETTED
 FALSE   EQU     0
 TRUE    EQU     NOT FALSE
 
@@ -474,4 +474,3 @@ OPNERR  DB      "   File not found.",13,10,"$"
 
 CONST   ENDS
         END
-                    
